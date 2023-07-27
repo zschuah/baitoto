@@ -1,24 +1,11 @@
-# baitoto
+# Welcome to Baitoto
 
-## Project setup
-```
-npm install
-```
+This project was generated with [Vue CLI](https://github.com/vuejs/create-vue)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Tech Stack
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Vue, Bootstrap
 
-### Lints and fixes files
-```
-npm run lint
-```
+### Info
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This was a website I made over the weekend for my cousin! My cousin has 2 puppies, Bailey and Toto, and I could never tell them apart. So I got inspired to make this 'Find Toto' game after learning some CSS card tricks online. Please visit her YouTube channel, BaiToto! She makes quality videos, and it's definitely worth subscribing! I also really wanted to practice using Vue with the CLI and Vue Router. Initially, I wanted to do this with React, but after having learnt both, Vue was simply the much more enjoyable choice to code in.
